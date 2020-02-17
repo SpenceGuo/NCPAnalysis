@@ -1,0 +1,12 @@
+{
+  "name": "2019-ncov-trends",
+  "homepage": "https://2019-ncov-trends.tk",
+  "scripts": {
+    "build": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ohdarling/2019-nCoV-Charts"
+  },
+  "license": "MIT"
+}
