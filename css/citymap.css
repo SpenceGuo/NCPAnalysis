@@ -1,0 +1,14 @@
+html, body { height: 100%; }
+      #chart_container { height: 90% }
+      .trends-chart { display:inline-block; width:100%; height:400px; padding-bottom: 30px; }
+      .summary-chart { display:inline-block; width:100%; height:400px; padding-bottom: 30px; }
+      @media only screen and (min-width: 800px) {
+        .trends-chart { width: 50% }
+        .summary-chart { width: 50% }
+      }
+      @media only screen and (min-width: 1200px) {
+        .trends-chart { width: 33% }
+      }
+      @media only screen and (min-width: 2000px) {
+        .trends-chart { width: 25% }
+      }
